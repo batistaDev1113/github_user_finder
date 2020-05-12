@@ -1,0 +1,4 @@
+Github token: 53a285ec9f7ddb3dd47a4ad3459bc01419003ef5 
+
+// authentication request
+curl -H "Authorization: token 53a285ec9f7ddb3dd47a4ad3459bc01419003ef5" https://api.github.com/users/codertocat -I
